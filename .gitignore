@@ -1,0 +1,45 @@
+### Spring ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Eclipse ###
+.settings/
+.classpath
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+nbbuild/
+generated/
+nbproject/.metadata.xml
+nbproject/private/
+nbproject/Makefile-*
+nbproject/project.properties
+nbproject/*.properties
+nbproject/*.xml
+nbproject/cache/
+nbproject/src/
+nbproject/test/
+build/
+target/
